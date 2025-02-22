@@ -11,9 +11,11 @@ I am always looking for new and interesting oddities to fill my time with, thoug
 <br>
 <br>
 
-*socials links here soon*
+I made a game to test psychological processing speed that you can play/build on!
+[https://github.com/RealityBending/DoggoNogoValidation]
 <br>
-<br>
+<be>
+
 
 **Sussex Student, Nomadic Academic, Seeker of Wisdom and Wanderlust**
 <!--
