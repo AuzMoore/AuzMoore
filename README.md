@@ -16,7 +16,7 @@ I made a game to test psychological processing speed that you can play/build on!
 <br>
 <be>
 You can find my dissertation here
-[https://AuzMoore.github.io/230972_report.pdf]
+[[https://AuzMoore.github.io/230972_report.pdf]](https://github.com/AuzMoore/AuzMoore/blob/main/230972_report.pdf)
 
 
 **Sussex Student, Nomadic Academic, Seeker of Wisdom and Wanderlust**
