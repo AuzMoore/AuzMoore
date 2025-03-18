@@ -15,6 +15,8 @@ I made a game to test psychological processing speed that you can play/build on!
 [https://github.com/RealityBending/DoggoNogoValidation]
 <br>
 <be>
+You can find my dissertation here
+[https://AuzMoore.github.io/230972_report.pdf]
 
 
 **Sussex Student, Nomadic Academic, Seeker of Wisdom and Wanderlust**
