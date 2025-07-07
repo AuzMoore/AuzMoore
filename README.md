@@ -2,6 +2,8 @@
 
 It may look empty here for now, but I'm sure some important info will trickle in...
 
+
+Recent graduate from University of Sussex, completing with a first class honours and an award for my Junior Research Associate position at the fantastic Reality Bending Lab
 I am always looking for new and interesting oddities to fill my time with, though here are some of the topics of passion I always return too
 - Anarchism in Academia
 - Rhizomatic systems
